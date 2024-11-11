@@ -30,3 +30,6 @@ httpie==3.2.1
 
 # Security Headers
 flask-talisman==1.1.0  
+
+#Add Flask-Cors to your requirements.txt file.
+Flask-Cors==3.0.10
